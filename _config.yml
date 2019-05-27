@@ -30,12 +30,12 @@ menu:
     target: _blank
   user:
     text: Friends
-    url: /custom
+    url: /friends
 
 # 你的头像url
 avatar: /img/Golumpa.png
 # avatar link
-avatar_link: /
+avatar_link: /about
 # 头像背景图
 brand: /img/brand.jpg
 # favicon
